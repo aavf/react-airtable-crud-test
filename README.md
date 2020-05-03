@@ -1,11 +1,13 @@
 ### Instructions
-This is for trying reactjs with Airtable CRUD actions in the simplest way as it exposes your API keys.
+This is for trying reactjs with Airtable CRUD actions in the simplest way as it exposes your API keys. For hiding API keys check [react-airtable-netlify](https://github.com/aavf/react-airtable-netlify)
 
 Create an Airtable account and create a base (database) from scratch, with no template.
 
-Go to [airtable.com/api](https://airtable.com/api) and choose the created base for instructions how to work with it.
+Go to [airtable.com/api](https://airtable.com/api) and choose the created base for details how to use it.
 
-Replace the Xs in API keys in App.js and EntryForm.js with your keys that you can get in your Airtable account or in the API docs
+Replace the Xs in API keys in App.js and EntryForm.js with your keys that you can get in your Airtable account or in the API docs.
+
+This is my first react app so could have mistakes/bad practices.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
