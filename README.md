@@ -1,3 +1,13 @@
+### Instructions
+This is for trying reactjs with Airtable CRUD actions in the simplest way as it exposes your API keys.
+
+Create an Airtable account and create a base (database) from scratch, with no template.
+
+Go to [airtable.com/api](https://airtable.com/api) and choose the created base for instructions how to work with it.
+
+Replace the Xs in API keys in App.js and EntryForm.js with your keys that you can get in your Airtable account or in the API docs
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
