@@ -1,5 +1,5 @@
 ### Instructions
-This is for trying reactjs with Airtable CRUD actions in the simplest way as it exposes your API keys. For hiding API keys check [react-airtable-netlify](https://github.com/aavf/react-airtable-netlify)
+This is for trying reactjs with Airtable CRUD actions in the simplest way as it exposes your API keys. For hiding API keys check [react-airtable-crud](https://github.com/aavf/react-airtable-crud)
 
 Create an Airtable account and create a base (database) from scratch, with no template.
 
